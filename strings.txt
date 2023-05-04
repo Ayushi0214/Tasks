@@ -1,0 +1,4 @@
+1. Find the length of a string without using len() function. 
+2. Write a program to convert half of the string uppercase and rest half of string in lower case.
+3. count the number of any character occuring in the string without using count function.
+4. Write a program to reverse any given string. 
