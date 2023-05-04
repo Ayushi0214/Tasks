@@ -1,0 +1,17 @@
+1. write a program to check if number is divisible by both 6 and 9. Take an input from to user for the number. 
+2. Debug the following program to check if the number is odd or even:
+   num = input('enter number: ')
+   if num/2 != 0:
+      print("even")
+   else:
+      print(odd)
+     
+3. write a program where take age as an input from the user and identify if the person is eligible to vote or not(user short hand method)
+4. write a program to create area calculator
+   """
+   press 1 to find the area of square
+   press 2 to find the area of rect
+   press 3 to find the area of circle
+   press 4 to find the area of triangle
+   
+   """
