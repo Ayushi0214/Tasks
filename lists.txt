@@ -1,0 +1,15 @@
+
+Python program to interchange first and last elements in a list
+Python program to swap two elements in a list
+write a program to find length of list without using len()
+Write a python program to check if element exists in list
+write a python program to reverse a List
+Write a python program to Count occurrences of an element in a list
+Python Program to find sum and average of List in Python
+Write a program to find Sum of number digits in List
+Python program to find smallest number in a list without using min()
+Python program to find largest number in a list without using max()
+Python program to print even numbers in a list
+Python program to print odd numbers in a List
+Python program to print positive numbers in a list
+Python program to count positive and negative numbers in a list
