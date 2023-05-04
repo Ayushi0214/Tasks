@@ -1,0 +1,15 @@
+a = np.array([2,3,4,5,np.nan,6,3,np.nan,6])
+1. write a program to find the mean and median of the given array
+
+a= np.array([5,3,3,4,5,7,4,4,6,78,4,23,2])
+2. write a program to find the mode of the given arrays
+
+given below are the rewiews of a product from different customers.
+a = [3.4, 6.7, 9, 2, 10,9.5, 5, 2,8.8, 2.3, 4.4 8.9, 1, 3.4, 9,9.5]
+3. write a program to find out the spread of the given data. Mention what you say about the quality of this product. 
+
+
+salary = np.array([66521.00, 59100.00 ,49011.00, 99575.00, 99989.00,256420.00,78940.00,82872.00,86317.00,113135.00,199808.00,56037.00,122350.00,92952.00,79921.00,167199.00,71476.00,189420.00,64057.00,68728.00,125633.00,66889.00,178700.00])
+bonus = np.array([0,0,0,0,0,30,0,0,0,5,32,0,12,0,5,20,0,20,0,0,11,0,29])
+
+4. identify the relationship between salary of an employee and bonus the they receive. 
