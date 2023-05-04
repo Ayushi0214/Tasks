@@ -1,0 +1,10 @@
+1.	Write a Python program to convert the distance (in feet) to inches, yards, and miles.
+2.	Write a Python program to check whether a number is divisible by another number. Accept two integer’s values form the user.
+3.	Write a Python program to check whether an alphabet is a vowel or consonant.
+4.    Write a program to print multiplication table of any given number in the format given below:
+            12 x 1 = 12
+            12 x 2 = 24
+5.    Write a program to display numbers from -10 to -1.   
+6.    Calculate the cube of every number upto 20.
+7.    Write a program to find the factorial of any given number. 
+8.    Write a program to create a calculator and use while loop so the user can use it again without running the program. 
