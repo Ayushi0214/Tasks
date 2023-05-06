@@ -1,6 +1,5 @@
 
 Python program to interchange first and last elements in a list
-Python program to swap two elements in a list
 write a program to find length of list without using len()
 Write a python program to check if element exists in list
 write a python program to reverse a List
