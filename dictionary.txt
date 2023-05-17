@@ -1,6 +1,6 @@
 a = {"a":20,"b":30,"c":60}
 1. Python program to find the sum of all values in a dictionary
-2. write a python program to dind the maen of the values
+2. write a python program to dind the mean of the values
 
 a = {"name":"john","age":23,"gender":"male"}
 3. write a program to update the name to "David" in the given dictionary
