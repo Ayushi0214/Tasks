@@ -34,6 +34,32 @@ else:
     print("5 digit number")
 
 
+#Write a program to create a small calculator
+
+print("""
+Press 1 to add
+Press 2 to subtract
+Press 3 to multiply
+Press 4 to divide""")
+
+choice = int(input("enter a number between 1-4: "))
+
+num1 = int(input("enter 1st number: "))
+num2 = int(input("enter 2nd number: "))
+
+if choice == 1:
+    print(num1 + num2)
+elif choice == 2:
+    print(num1-num2)
+elif choice == 3:
+    print(num1*num2)
+elif choice == 4:
+    print(num1/num2)
+else:
+    print("invalid input... try again!")
+
+
+
 
 
 
