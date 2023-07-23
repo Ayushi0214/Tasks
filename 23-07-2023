@@ -1,0 +1,44 @@
+#write a program to check if a number is positive or negative
+
+# num = int(input("enter number: "))
+#
+# if num >= 0:
+#     print("positive")
+# else:
+#     print("negative")
+
+#Write a program to check if a number is odd or even?
+
+# num = int(input("enter number: "))
+#
+# if num % 2 == 0:
+#     print("even")
+# else:
+#     print("odd")
+
+
+
+#check if the number given by the user is 1 digit number or 2 digit number upto 5 digits
+
+num = int(input('enter any number upto 5 digits: '))
+
+if num <=9:
+    print("1 digit number")
+elif num >=10 and num <= 99:
+    print("2 digit number")
+elif num >=100 and num <=999:
+    print("3 digit number")
+elif num >=1000 and num<=9999:
+    print("4 digit number")
+else:
+    print("5 digit number")
+
+
+
+
+
+
+
+
+
+
