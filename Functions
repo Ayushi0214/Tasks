@@ -1,0 +1,5 @@
+1.  Write a Python function to find the maximum of three numbers.
+2.  Write a Python function to calculate the factorial of a number. The function accepts the number as an argument.
+3.  Write a Python function to reverse a string.
+    Sample String : "1234abcd"
+    Expected Output : "dcba4321"
