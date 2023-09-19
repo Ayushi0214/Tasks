@@ -2,9 +2,8 @@ a = (23,44,24,33,66,45)
 1. find the sum of tuple elements 
 2. write a program to add 60 to the above mentioned tuple. 
 3. Check if two lists have at-least one element common
-4. Python program to find common elements in three lists using sets
-5. Python program to find the difference between two lists
-6. a = [2,3,4,5,1]
+4. Python program to find the difference between two lists
+5. a = [2,3,4,5,1]
    b = [4,8,2,5,3]
    c = [6,8,3,5,9]
    
